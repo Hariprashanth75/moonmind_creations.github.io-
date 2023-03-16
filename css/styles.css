@@ -63,6 +63,14 @@ padding: 0 0 4.5rem;
     font-family: "Montserrat-Light";
 }
 
+
+
+.footerLink
+{
+    border: none;
+    background-color: #fff;
+}
+
 /* Download buttons */
 .download-button
 {
